@@ -1,4 +1,5 @@
 Building a Retail SQL Database for a Pizza Business: A Step-by-Step Guide
+
 The world of data management in retail is constantly evolving, and for a pizza business, having a robust and efficient database is essential. This article walks you through the process of designing a SQL database tailored for a pizza business, focusing on orders, stock control, and staff management. This setup helps a pizza business owner capture, store, and analyze critical information, ultimately improving performance monitoring and business insights.
 
 Key Focus Areas
